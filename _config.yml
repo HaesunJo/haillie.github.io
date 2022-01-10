@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Haesun Jo"
-  avatar           : "/assets/images/profile-home.png"
+  avatar           : "/assets/images/profile-home-small.png"
   bio              : "I am an **amazing** person."
   location         : "Vancouver, Canada"
   email            :

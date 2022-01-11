@@ -123,8 +123,8 @@ author:
 
 # Sidebar
 sidebar:
-  title: "About"
-  links: "https://www.google.com"
+  - title: "About"
+    links: "https://www.google.com"
 
 # Site Footer
 footer:

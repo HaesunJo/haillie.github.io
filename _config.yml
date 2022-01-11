@@ -247,7 +247,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-    about: /about/:name/
+    about: /about/
 
 
 # HTML Compression

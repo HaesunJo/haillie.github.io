@@ -1,7 +1,7 @@
 ---
 title: "about"
 lyaout: single
-permalink: /abouts/
+permalink: /about/
 author_profile: ture
 sidebar_main: true
 ---

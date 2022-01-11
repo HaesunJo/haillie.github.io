@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Haillie's portfolio"
-title_separator          : "-"
-subtitle                 : "Welcome to my Portfolio" # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "Ready to start a new journey" # site tagline that appears below site title in masthead
 name                     : "Haillie Jo"
-description              : "Ready to start a new journey"
+description              : "Haillie's portfolio"
 url                      : "https://haesunjo.github.io/hailliegithub/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Haesun Jo"
   avatar           : "/assets/images/profile-home-small.png"
-  bio              : "I am an **amazing** person."
+  bio              : "Web developer & Front-end"
   location         : "Vancouver, Canada"
   email            :
   links:

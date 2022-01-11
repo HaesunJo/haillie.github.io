@@ -121,11 +121,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/oo4l4oo/"
 
-# Sidebar
-sidebar:
-  - title: "About"
-    links: "https://www.google.com"
-
 # Site Footer
 footer:
   links:

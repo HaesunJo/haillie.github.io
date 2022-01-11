@@ -247,6 +247,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+    about: /about/:name/
 
 
 # HTML Compression
@@ -262,7 +263,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: foo
     values:
       layout: single
       author_profile: true

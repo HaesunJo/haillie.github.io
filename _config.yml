@@ -231,11 +231,6 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 
-# portfolio
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
 category_archive:
   type: liquid
@@ -264,6 +259,13 @@ compress_html:
   ignore:
     envs: development
 
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
 
 # Defaults
 defaults:

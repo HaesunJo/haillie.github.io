@@ -1,6 +1,8 @@
 ---
 title: "test portfolio"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+categories: portfolio
+tags: [php, html, css]
 header:
   image: /assets/images/portfolio01.jpg
   teaser: assets/images/portfolio01.jpg

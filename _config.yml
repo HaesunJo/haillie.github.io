@@ -267,7 +267,19 @@ compress_html:
 
 # Defaults
 defaults:
-    # _portfolio
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      show_date: true
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -282,17 +294,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-      show_date: true
+
 
 date_format: "%Y-%m-%d"

@@ -1,7 +1,7 @@
 ---
 title: "About"
 lyaout: single
-permalink: /about/
+permalink: /about
 sidebar_main: true
 ---
 

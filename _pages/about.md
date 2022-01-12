@@ -2,7 +2,6 @@
 title: "About"
 lyaout: single
 permalink: /about/
-author_profile: ture
 sidebar_main: true
 ---
 

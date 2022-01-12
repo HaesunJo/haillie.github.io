@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 lyaout: single
 permalink: /about/
 author_profile: ture

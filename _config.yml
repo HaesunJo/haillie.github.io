@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haillie's portfolio"
+title                    : "Haillie's Blog"
 title_separator          : "|"
 subtitle                 : "Ready to start a new journey" # site tagline that appears below site title in masthead
 name                     : "Haillie Jo"

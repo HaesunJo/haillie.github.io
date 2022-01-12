@@ -295,6 +295,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # tag
+  - scope:
+        path: ""
+        type: tag
+      values:
+        author_profile: true
+  # category
+  - scope:
+      path: ""
+      type: category
+    values:
+      comments: false
+      
 
 date_format: "%Y-%m-%d"

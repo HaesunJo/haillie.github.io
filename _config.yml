@@ -249,7 +249,6 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-    about: /about/
 
 
 # HTML Compression
@@ -265,7 +264,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    
+
 
 # Defaults
 defaults:

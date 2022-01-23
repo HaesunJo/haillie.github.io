@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haillie's Blog"
-title_separator          : "|"
-subtitle                 : "Ready to start a new journey" # site tagline that appears below site title in masthead
-name                     : "Haillie Jo"
-description              : "Haillie's portfolio"
-url                      : "https://haesunjo.github.io/hailliegithub/"
+title                    : 
+title_separator          : 
+subtitle                 :  # site tagline that appears below site title in masthead
+name                     : 
+description              : 
+url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,40 +102,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haesun Jo"
-  avatar           : "/assets/images/avatar-metamon.jpeg"
-  bio              : "Web developer & Front-end"
-  location         : "Vancouver, Canada"
+  name             : 
+  avatar           : 
+  bio              : 
+  location         :
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:light.blue.389@gmail.com"
+#       url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/HaesunJo"
+#       url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/oo4l4oo/"
+#       url: 
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/HaesunJo"
+#       url: 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/oo4l4oo/"
+#       url: 
 
 
 # Reading Files
 include:
   - .htaccess
-  - ["_pages"]
+#   - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -280,33 +280,3 @@ defaults:
       share: true
       related: true
       show_date: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # tag
-  - scope:
-        path: ""
-        type: tag
-      values:
-        author_profile: true
-  # category
-  - scope:
-      path: ""
-      type: category
-    values:
-      comments: false
-      
-
-date_format: "%Y-%m-%d"

@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : #"Haillie's GitPage"
 title_separator          : #"|"
-subtitle                 : "This is subtitle" # site tagline that appears below site title in masthead
-name                     : "Haillie Jo"
-description              : "this is a description part"
+subtitle                 : #"This is subtitle" # site tagline that appears below site title in masthead
+name                     : #"Haillie Jo"
+description              : #"this is a description part"
 url                      : #"https://haesunjo.github.io/hailliegithub/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Haesun Jo"
-  avatar           : "/assets/images/avatar-metamon.jpeg"
-  bio              : "Web developer & Front-end"
-  location         : "Vancouver, Canada"
-  email            : "test@email.com"
+  avatar           : # "/assets/images/avatar-metamon.jpeg"
+  bio              : #"Web developer & Front-end"
+  location         : #"Vancouver, Canada"
+  email            : #"test@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:light.blue.389@gmail.com"
+      url: #"mailto:light.blue.389@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,10 +126,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://haesunjo.github.io/"
+      url: #"https://haesunjo.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/""
+      url: #"https://instagram.com/""
 
 
 # Reading Files

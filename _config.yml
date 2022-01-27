@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Haesun Jo"
-  avatar           : # "/assets/images/avatar-metamon.jpeg"
+  avatar           : "/assets/images/avatar-metamon.jpeg"
   bio              : #"Web developer & Front-end"
   location         : #"Vancouver, Canada"
   email            : #"test@email.com"
@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://haesunjo.github.io/"
+      url: "https://github.com/HaesunJo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
 #       url: 
